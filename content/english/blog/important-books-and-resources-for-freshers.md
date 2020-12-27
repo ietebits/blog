@@ -71,7 +71,7 @@ You can use these resources to make a perfect start for your career.
 </tbody>
 </table>
 
-<h2># Baisc Electrical</h2>
+<h2># Basic Electrical</h2>
 <table>
 <thead>
 <tr>
