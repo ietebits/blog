@@ -1,6 +1,6 @@
 [build]
   publish = "/public"
-  command = "hugo --gc --minify && cd public/blog && ls && cp index.html ../ && cd ../ && ls"
+  command = "hugo --gc --minify && cd public/blog && cp index.html ../ "
   
 [build.environment]
   HUGO_VERSION = "0.73.0"
