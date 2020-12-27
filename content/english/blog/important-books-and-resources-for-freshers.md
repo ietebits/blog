@@ -170,7 +170,7 @@ You can use these resources to make a perfect start for your career.
 </tbody>
 </table>
 
-<h2># Engineering Mathematic</h2>
+<h2># Engineering Mathematics</h2>
 <table>
 <thead>
 <tr>
