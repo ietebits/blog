@@ -98,7 +98,7 @@ You can use these resources to make a perfect start for your career.
 </tr>
 <tr>
 <td>4.</td>
-<td>Electrical Circuit Analysis - By A. Sudhakar &amp; Shyammohan S. palli</td>
+<td>Electrical Circuit Analysis - By A. Sudhakar &amp; Shyammohan S. Palli</td>
 <td><a href="https://drive.google.com/file/d/1PwVAO5vPFY2t2ySyQsE0-Su8uI41LKDa/view?usp=sharing">Download</a></td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ You can use these resources to make a perfect start for your career.
 </tr>
 <tr>
 <td>6.</td>
-<td>Basic Electrical Engineering - By VK Mehnta &amp; Rohit Mehta</td>
+<td>Basic Electrical Engineering - By VK Mehta &amp; Rohit Mehta</td>
 <td><a href="https://drive.google.com/file/d/1PuaHS16d7xDwTtOgRzve8PLGaer01gBU/view?usp=sharing">Download</a></td>
 </tr>
 </tbody>
