@@ -164,7 +164,7 @@ You can use these resources to make a perfect start for your career.
 </tr>
 <tr>
 <td>2.</td>
-<td>1st Sem. Exam(2018)</td>
+<td>Semiconductor 1st Sem. Question(2018)</td>
 <td><a href="https://drive.google.com/file/d/1GsMvmVW2c2hL95EbR03jtvOGrQ89Pebm/view?usp=sharing">Download</a></td>
 </tr>
 </tbody>
