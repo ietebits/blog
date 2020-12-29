@@ -3,11 +3,13 @@
   <img alt="IETE blogs logo" src="./static/images/logo.png" width="400">
 </p>
 
+[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fblog.ietebits.com)](https://blog.ietebits.com)
+
 ### How to add new blog?
 1. Add new markdown(.md) file here for new blog: https://github.com/ietebits/blog/tree/main/content/english/blog
 
-2. The filename should be in **Kebabe Case**
-So if title of the blog is "**How to get into BIT Sindri**" then filename should be **how-to-get-inti-bit-sindri**
+2. The filename should be in **Kebab Case**
+So, if title of the blog is "**How to get into BIT Sindri**" then filename should be **how-to-get-into-bit-sindri**
 
 3. Filetype must be .md (markdown).
 
@@ -44,6 +46,7 @@ type: "post"
 
 # How to contribute?
 https://opensource.guide/how-to-contribute/
+
 
 # Thanks to 
 - **[Hugo](https://gohugo.io/)** - The world’s fastest framework for building websites
