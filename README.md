@@ -33,7 +33,7 @@ type: "post"
 ```
 
  - **title** = TITLE OF THE BLOG
- - **date** = Date of publishing blog? (yyyy-MM-dd'T'HH:mm:ssZ)
+ - **date** = Date of publishing blog? ( ```yyyy-MM-dd'T'HH:mm:ssZ```)
  - **author** = Who is the author of blog? Add new author here: https://github.com/ietebits/blog/tree/main/content/english/author
  - **image** = It will be the image for the blog. Add images here: https://github.com/ietebits/blog/tree/main/static/images/blog
  - **bg_image** = It is the feature image. Adding new feature image for every blog is optional. 
