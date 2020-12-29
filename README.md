@@ -27,16 +27,16 @@ type: "post"
 <<HERE WILL BE YOUR BLOG CONTENT>>
 ```
 
- - **title** = Title of the Blog
- - **date** = When blog is published?
+ - **title** = TITLE OF THE BLOG
+ - **date** = Date of publishing blog? (yyyy-MM-dd'T'HH:mm:ssZ)
  - **author** = Who is the author of blog? Add new author here: https://github.com/ietebits/blog/tree/main/content/english/author
  - **image** = It will be the image for the blog. Add images here: https://github.com/ietebits/blog/tree/main/static/images/blog
  - **bg_image** = It is the feature image. Adding new feature image for every blog is optional. 
- - **categories**: Give category to your blog.
- - **tags**: Give tags to your blog.
- - **description**: Add description of your blog.
- - **draft**: false
- - **type**: "post"
+ - **categories** = Give category to your blog.
+ - **tags** = Give tags to your blog.
+ - **description** = Add description of your blog.
+ - **draft** = false
+ - **type** = "post"
 
 
 # How to contribute?
