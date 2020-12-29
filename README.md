@@ -1,4 +1,7 @@
-# IETE Blogs
+
+<p align="center">
+  <img alt="IETE blogs logo" src="./static/images/logo.png" width="400">
+</p>
 
 ### How to add new blog?
 1. Add new markdown(.md) file here for new blog: https://github.com/ietebits/blog/tree/main/content/english/blog
