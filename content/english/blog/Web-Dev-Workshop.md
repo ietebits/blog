@@ -2,8 +2,8 @@
 title: Web-Dev-Workshop
 date: 2021-09-206T12:00:10+06:00
 author: IETE-BITS
-image : "images/blog/Workshop1.jpg"
-bg_image: "images/blog/Workshop1.jpg"
+image : "images/blog/Workshop1.png"
+bg_image: "images/blog/Workshop1.png"
 categories: ["Workshop"]
 tags: ["Workshop","WebDev"]
 description: ""
