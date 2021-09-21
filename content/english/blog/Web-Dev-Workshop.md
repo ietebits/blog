@@ -1,6 +1,6 @@
 ---
 title: Web-Dev-Workshop
-date: 2021-06-14T12:00:10+06:00
+date: 2021-09-20T12:00:10+06:00
 author: IETE-BITS
 image : "images/blog/Workshop1.png"
 bg_image: "images/blog/Workshop1.png"
