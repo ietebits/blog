@@ -5,7 +5,7 @@ author: IETE-BITS
 image : "images/blog/nexus.jpg"
 bg_image: "images/blog/nexus.jpg"
 categories: ["Event"]
-tags: ["Event","Nexus","Web-development","Front-end"]
+tags: ["Events","Nexus","Web-development","Front-end"]
 description: ""
 draft: false
 type: "post"

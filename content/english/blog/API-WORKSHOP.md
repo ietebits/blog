@@ -1,6 +1,6 @@
 ---
 title: APIs 101 with Postman Workshop
-date: 2021-12-08T12:00:10+06:00
+date: 2021-10-15T12:00:10+06:00
 author: IETE-BITS
 image : "images/blog/API_Workshop.jpg"
 bg_image: "images/blog/API_Workshop.jpg"
