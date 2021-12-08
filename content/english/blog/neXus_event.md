@@ -11,7 +11,7 @@ draft: false
 type: "post"
 ---
 
->*"The more we give importance to skill development, the more competent will be our youth."
+>_"The more we give importance to skill development, the more competent will be our youth."_
 —  **PM Shri Narendra Modi**
 
 The past few decades have brought a significant changes in the work dynamics of the country as well as the world. Popularity of technical skill has exponentially grown in the past few years and is a potential tool to save the employment crisis of the country. So, it becomes immensely important to grab some revelent technical skill in this competitive environment and stand out of the crowd.
@@ -85,7 +85,7 @@ were shortlisted for the 2nd/final round:-
 7. ALPHA
 8. HAZZLE_AND_DAZZLE
 9. NKG REACTORS
-10.QUANTUM
+10. QUANTUM
 
 Moving ahead towards the main part of the event. In the 2nd round, all the teams had to present
 their sites in front of our respective judges who were experienced and have great knowledge in
