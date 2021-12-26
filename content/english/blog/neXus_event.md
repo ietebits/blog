@@ -4,8 +4,8 @@ date: 2021-09-23T12:00:10+06:00
 author: IETE-BITS
 image : "images/blog/nexus.jpg"
 bg_image: "images/blog/nexus.jpg"
-categories: ["Event"]
-tags: ["Event","Nexus","Web-development","Front-end"]
+categories: ["Events"]
+tags: ["Events","Nexus","Web-development","Front-end"]
 description: ""
 draft: false
 type: "post"
